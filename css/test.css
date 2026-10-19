@@ -1,0 +1,38 @@
+body{
+    background: rgb(192, 255, 236);
+
+}
+
+h1{
+    font-size: 100px; /* размер текста*/
+    font-weight: 800; /* толщина текста*/
+    font-family: Arial, Helvetica, sans-serif; /* шрифт */
+    color: black; /* цвет текста */
+    text-transform: uppercase; /* весь текст будет заглавным*/
+    text-align: center; /* положение текста */
+
+}
+
+span{
+    text-decoration: wavy;
+    color: rgb(0, 174, 255);
+    background: rgb(100, 211, 219) ;
+    padding: 15px 25px;
+    border-radius: rgb(105, 212, 255) ;
+}
+
+button{
+    padding: 10px 15px;
+    border: 1px solid rgb(0, 183, 255); /* обводка */
+    border-radius: 10px; /* скругление углов */
+    background: wheat;
+    color: rgb(122, 240, 255);
+    font-weight: 300;
+    font-size: 200;
+}
+
+.img1{
+    width: 300;
+    height: 300;
+    border-radius: 30px;
+}
